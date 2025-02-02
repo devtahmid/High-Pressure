@@ -1,10 +1,8 @@
 # HIGH PRESSURE PROJECT
 
+#### (This is the markdown version of the python notebook which is within this repository folder)
 
-```python
-## This is the markdown version of the python notebook which is within this repository folder
-```
-
+## Uses skills learnt in 'Matrix Methods in Data Analysis' course to analyse Weather forecast data and try to see which metric is a better predictor of sunshine the next day, Sunshine of the previous day or the atmospheric pressure.
 
 ```python
 # Importing necessary libraries for data manipulation and machine learning
